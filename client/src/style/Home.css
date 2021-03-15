@@ -1,0 +1,66 @@
+body {
+    background-image: url('../final1.svg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    
+  }
+
+.align {
+    margin-left:380px;
+}
+  
+  h1 {
+    font-size:100px;
+    color:#5BCEFA !important;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    margin: 50px 0px 0px 50px;
+    background-color: #FFE5E5;
+  }
+  
+  h2 {
+    color:#47A9FA;
+    font-size: 45px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    margin-top:100px;
+  }
+  
+  .juno {
+    margin:60px 0px;
+    color:#47A9FA;
+    font-size: 45px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .descrip {
+    font-size:15px;
+    margin: 50px 30px 50px 60px !important; 
+    color:#0c0b0b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+.ct1, .ct2, .ct3 {
+    text-align: center;
+}
+
+  .cont {
+    margin-left:100px;
+    margin-right:100px;
+  }
+
+  .card1, .card2, .card3 {
+      border-radius: 25px;
+      box-shadow: 5px 5px rgb(194, 190, 190);
+  }
+
+  a {
+      color:#5BCEFA;
+      font-size:35px;
+      font-weight:bold;
+  }
